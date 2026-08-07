@@ -58,5 +58,26 @@ Product catalog with dynamic product pages and modern UI.
 * Portfolio: YOUR_PORTFOLIO_URL
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyushPatel1832002&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel1832002&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AyushPatel1832002&hide_border=true" />
+
+</div>
 
 ⭐ Thanks for visiting my profile!
