@@ -4,34 +4,31 @@
 
 I'm a passionate Full Stack Developer focused on building modern, responsive and user-friendly web applications.
 
-### 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Next.js
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-**State Management**
+### Backend & Database
 
-* Redux Toolkit
-* Redux Persist
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
 
-**Backend**
+### State Management & Tools
 
-* Node.js
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=redux,git,github,vscode,figma,npm" />
+</p>
 
-**Database**
+### CMS & API
 
-* MongoDB
-* PostgreSQL
-
-**CMS**
-
+<p>
+<img src="https://skillicons.dev/icons?i=sanity,graphql" />
+</p>
 * Sanity
 
 **Tools**
@@ -40,23 +37,35 @@ I'm a passionate Full Stack Developer focused on building modern, responsive and
 * GitHub
 * VS Code
 
-### 💻 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **E-Commerce Application**
-Modern e-commerce application with product catalog, cart functionality and Redux state management.
+### 🛒 E-Commerce Cart App
 
-🔹 **Todo Management App**
-Todo application built with React.js and Redux Toolkit.
+Modern e-commerce application with product catalog, shopping cart and persistent state management.
 
-🔹 **Next.js Product Catalog**
-Product catalog with dynamic product pages and modern UI.
+**Tech:** React.js • Redux Toolkit • Redux Persist
 
-### 📫 Connect With Me
+🔗 [View Project](https://github.com/AyushPatel1832002/e-commerce-cart-app)
 
-* GitHub: https://github.com/AyushPatel1832002
-* LinkedIn: https://www.linkedin.com/in/ayush-patel-50674224b/
-* Portfolio: YOUR_PORTFOLIO_URL
+---
 
+### 📋 Project Management App
+
+A project management application for managing projects, boards and tasks with a modern interface.
+
+**Tech:** React.js • JavaScript • Redux
+
+🔗 [View Repository](https://github.com/AyushPatel1832002/project-management-app)
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio website showcasing my skills, projects and experience.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/AyushPatel1832002/portfolio-aayush)
 ---
 ---
 
