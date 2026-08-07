@@ -26,8 +26,11 @@ I'm a passionate Full Stack Developer focused on building modern, responsive and
 
 ### CMS & API
 
+### CMS & API
+
 <p>
-<img src="https://skillicons.dev/icons?i=sanity,graphql" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 * Sanity
 
