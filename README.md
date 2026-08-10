@@ -66,10 +66,11 @@ A project management application for managing projects, boards and tasks with a 
 
 Personal portfolio website showcasing my skills, projects and experience.
 
-**Tech:** HTML • CSS • JavaScript
+Tech: Next.js • React.js • TypeScript • Tailwind CSS • Sanity CMS
 
-🔗 [View Repository](https://github.com/AyushPatel1832002/portfolio-aayush)
----
+🔗 View Live Website
+
+🔗 View Repository
 ---
 
 ## 📊 GitHub Statistics
@@ -91,5 +92,12 @@ Personal portfolio website showcasing my skills, projects and experience.
 <img src="https://streak-stats.demolab.com?user=AyushPatel1832002&hide_border=true" />
 
 </div>
+ Connect With Me
+
+🌐 Portfolio: https://portfolio-project-orpin-theta.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/ayush-patel-50674224b/
+
+🐙 GitHub: https://github.com/AyushPatel1832002
 
 ⭐ Thanks for visiting my profile!
