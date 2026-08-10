@@ -94,7 +94,7 @@ Tech: Next.js • React.js • TypeScript • Tailwind CSS • Sanity CMS
 </div>
  Connect With Me
 
-🌐 Portfolio: https://portfolio-project-orpin-theta.vercel.app/
+🌐 Portfolio: https://ayushpatel-dev.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/ayush-patel-50674224b/
 
