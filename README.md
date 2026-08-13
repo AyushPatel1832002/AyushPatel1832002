@@ -91,9 +91,15 @@ https://github.com/AyushPatel1832002
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushPatel1832002&show_icons=true&hide_border=true" height="170"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=AyushPatel1832002&show_icons=true&hide_border=true&count_private=true" 
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel1832002&layout=compact&hide_border=true" height="170"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel1832002&layout=compact&hide_border=true&langs_count=8" 
+  height="180"
+/>
 
 </div>
 
@@ -103,11 +109,12 @@ https://github.com/AyushPatel1832002
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AyushPatel1832002&hide_border=true" />
+<img 
+  src="https://streak-stats.demolab.com/?user=AyushPatel1832002&hide_border=true" 
+  height="180"
+/>
 
 </div>
-
----
 
 ## 🤝 Connect With Me
 
