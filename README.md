@@ -109,12 +109,15 @@ https://github.com/AyushPatel1832002
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com/?user=AyushPatel1832002&hide_border=true" 
-  height="180"
-/>
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com/?user=AyushPatel1832002&hide_border=true" 
+    alt="Aayush Patel GitHub Streak"
+  />
+</a>
 
 </div>
+
 
 ## 🤝 Connect With Me
 
